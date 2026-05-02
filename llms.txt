@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل خذني نحو العيون
+> في سحر نظرتك قلبي صار مجنون
+> أشعلت ناري وفي حضنك أذوب
+> أنت غرامي ومحا كل الذنوب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
